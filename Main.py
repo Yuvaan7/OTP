@@ -6,8 +6,7 @@ from email.mime.multipart import MIMEMultipart
 
 # ========== Gmail SMTP Settings ==========
 GMAIL_EMAIL = "u23d7247@sunvalleyncr.in"           # Your Gmail address
-GMAIL_APP_PASSWORD = "hnek xgzf bqcw cdgg
-"  # Your 16-character Gmail App Password
+GMAIL_APP_PASSWORD = "hnek xgzf bqcw cdgg"  # Your 16-character Gmail App Password
 
 # ========== Generate a 6-digit OTP ==========
 def generate_otp():
